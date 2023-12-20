@@ -20,7 +20,7 @@ Open the index.html file in your preferred web browser.
 
 Start tracking your expenses by adding new entries and managing categories.
 
-Usage
+## Usage
 
 Click on "Add Expenses" to input new expenses, including the amount, date, category, and notes.
 View a summary of your expenses in the categorized table.
